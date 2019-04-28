@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "users": [
+                {
+                    "id": 1,
+                    "name": "Carlos"
+                },
+                {
+                    "id": 2,
+                    "name": "Pedro"
+                }
+            ],
+            "debts": [
+                {
+                    "id": 1,
+                    "title": "Renta",
+                    "description": "Mes de Mayo",
+                    "amount": 3750,
+                    "timestamp": "123456"
+                },
+                {
+                    "id": 2,
+                    "title": "Pizza",
+                    "description": "Pizza Hut",
+                    "amount": 120,
+                    "timestamp": "123456"
+                }
+            ],
+            "current": {
+                "amount": 3870,
+                "idFavor": 1
+            }
+        }
+    ]
+}
