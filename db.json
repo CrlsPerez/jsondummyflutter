@@ -1,42 +1,38 @@
 {
-    "data": [
+    "Items": [
         {
-            "users": [
-                {
-                    "id": 1,
-                    "name": "Carlos",
-                    "nickname": "Pedro 1"
-                },
-                {
-                    "id": 2,
-                    "name": "Pablo",
-                    "nickname": "Pedro 2"
-                }
-            ],
-            "debts": [
-                {
-                    "id": 1,
-                    "title": "Renta",
-                    "description": "Renta mes de Mayo",
-                    "amount": 3750,
-                    "timestamp": "123456",
-                    "paid": true,
-                    "person_paid": 1 
-                },
-                {
-                    "id": 2,
-                    "title": "Pizza",
-                    "description": "Pizza Hut",
-                    "amount": 120,
-                    "timestamp": "123456",
-                    "paid": false,
-                    "person_paid": 2
-                }
-            ],
-            "current": {
-                "amount": 3870.10,
-                "idFavor": 1
-            }
+            "keysearch": "play",
+            "datetime": "2019-11-12 17:18:47",
+            "link": "https://www.promodescuentos.com/ofertas/amazon-adidas-adi-ball-out-graphic-tee-playera-para-hombre-379747",
+            "titlearticle": "amazon: adidas adi ball out graphic tee - playera para hombre"
+        },
+        {
+            "keysearch": "play",
+            "datetime": "2019-11-12 17:18:48",
+            "link": "https://www.promodescuentos.com/ofertas/adidas-freelift-sport-playera-para-hombre-talla-chica-color-gris-379724",
+            "titlearticle": "amazon: adidas freelift sport playera para hombre talla xg- color gris"
+        },
+        {
+            "keysearch": "play",
+            "datetime": "2019-11-12 17:18:48",
+            "link": "https://www.promodescuentos.com/ofertas/adidas-graphic-tee-playera-para-hombre-talla-grande-379721",
+            "titlearticle": "amazon: adidas graphic tee - playera para hombre talla grande"
         }
-    ]
+    ],
+    "Count": 3,
+    "ScannedCount": 3,
+    "ResponseMetadata": {
+        "RequestId": "4OKGDS6HTTG7MIPO937EUHIDAJVV4KQNSO5AEMVJF66Q9ASUAAJG",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "server": "Server",
+            "date": "Wed, 13 Nov 2019 03:13:35 GMT",
+            "content-type": "application/x-amz-json-1.0",
+            "content-length": "862",
+            "connection": "keep-alive",
+            "x-amzn-requestid": "4OKGDS6HTTG7MIPO937EUHIDAJVV4KQNSO5AEMVJF66Q9ASUAAJG",
+            "x-amz-crc32": "3698699150"
+        },
+        "RetryAttempts": 0
+    }
 }
