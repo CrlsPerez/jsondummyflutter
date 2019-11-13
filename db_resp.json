@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "users": [
+                {
+                    "id": 1,
+                    "name": "Carlos",
+                    "nickname": "Pedro 1"
+                },
+                {
+                    "id": 2,
+                    "name": "Pablo",
+                    "nickname": "Pedro 2"
+                }
+            ],
+            "debts": [
+                {
+                    "id": 1,
+                    "title": "Renta",
+                    "description": "Renta mes de Mayo",
+                    "amount": 3750,
+                    "timestamp": "123456",
+                    "paid": true,
+                    "person_paid": 1 
+                },
+                {
+                    "id": 2,
+                    "title": "Pizza",
+                    "description": "Pizza Hut",
+                    "amount": 120,
+                    "timestamp": "123456",
+                    "paid": false,
+                    "person_paid": 2
+                }
+            ],
+            "current": {
+                "amount": 3870.10,
+                "idFavor": 1
+            }
+        }
+    ]
+}
